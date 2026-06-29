@@ -1,4 +1,4 @@
-# 
+# Nativo ESET NOD32 flujo de trabajo para Mac OS | Personalizado ESET NOD32 flujo de trabajo para PC Windows. Con temas personalizados y monitoreo en tiempo real — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
